@@ -1,0 +1,7 @@
+Integrar pagina/pestaña: Clasicas.HTML, Acusticas/Electricas.HTML, Accesorios.HTML, Contactanos.HTML
+Modificar #Leer mas (agregando un HTML exclusivo para el mismo ojo no dejar muy en blanco la pagina)
+En la pestaña Contactanos.HMTL (poner un enlace / link directo a la pestaña INICIO.HTML)
+Agregar otro enlace / link directo desde la pestaña #Informacion perteneciente a Leer.HTML
+EN TODAS LAS PESTAÑAS (Inicio.HTML, Clasicas.HTML, Acusticas/Electricas.HMTL,Accesorios.HTML
+Contactanos.HTML y hasta en Leer.HTML) = Agregar el FOOTER y el BODY PRINCIPAL (mismo margen,contorno
+tipo de letras, tamaño de letras que quede iguales FOOTTE/BODY) 
